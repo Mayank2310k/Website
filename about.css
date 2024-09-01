@@ -1,0 +1,32 @@
+/* body{
+    background-color: #1b1f23;
+    color:gray;
+    color:white;
+} */
+
+*{
+    padding: 0,0;
+    margin: 10px,10px;
+}
+
+.row p{
+    color:white;
+}
+
+
+#back{
+    background-color: #353535;
+    text-align: center;
+    margin: auto;
+}
+
+#trans{
+    background-color: transparent;
+    border: none;
+}
+#transborder{
+    background-color: transparent;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+}
